@@ -49,7 +49,7 @@ The scikit-learn implementation slightly outperforms the manual version, but bot
 
 ## 📁 Dataset Source
 
-Available on [Kaggle: Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+Available on [Kaggle: Pima Indians Diabetes Database](https://www.kaggle.com/datasets/kandij/diabetes-dataset)
 
 ---
 
