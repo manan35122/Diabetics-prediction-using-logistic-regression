@@ -24,7 +24,8 @@ The dataset is part of the **Pima Indians Diabetes Database**, originally collec
 
 - Python (NumPy, Pandas)
 - Scikit-learn
-- Matplotlib & Seaborn (for visualization)
+- Matplotlib
+
 
 ---
 
